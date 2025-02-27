@@ -68,7 +68,7 @@
 ## Getting Started
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/BSAN450_GroupAssignment1.git
+   git clone https://github.com/themoemansour/BSAN450_GroupAssignment1.git
    ```
 2. Navigate to the directory:
    ```bash
